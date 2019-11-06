@@ -1,0 +1,27 @@
+body {
+    padding: 20px;
+    margin: 10px auto;
+    background-color: #999991;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#wrapper {
+    width: 720px;
+    margin: 0 auto;
+}
+
+figure {
+    display: block;
+    padding: 9px;
+    text-align: left;
+}
+
+.entry {
+    width: 660px;
+    float: left;
+    margin: 10px;
+
+}
+
+
